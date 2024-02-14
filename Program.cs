@@ -19,7 +19,8 @@ namespace OddorEvenApp{
     class  Praogram{
         public static void Main(string[] args)
         {
-            int num = 101;
+            Console.Write("Enter the no.");
+            int num = Convert.ToInt32(Console.ReadLine());
             if (num%2 == 0){
                 Console.WriteLine("the no is even");
             }
