@@ -1,0 +1,15 @@
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\bin\Debug\net7.0\Full Stack dotnet Developement Bootcamp.exe
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\bin\Debug\net7.0\Full Stack dotnet Developement Bootcamp.deps.json
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\bin\Debug\net7.0\Full Stack dotnet Developement Bootcamp.runtimeconfig.json
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\bin\Debug\net7.0\Full Stack dotnet Developement Bootcamp.dll
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\bin\Debug\net7.0\Full Stack dotnet Developement Bootcamp.pdb
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\obj\Debug\net7.0\Full Stack dotnet Developement Bootcamp.csproj.AssemblyReference.cache
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\obj\Debug\net7.0\Full Stack dotnet Developement Bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\obj\Debug\net7.0\Full Stack dotnet Developement Bootcamp.AssemblyInfoInputs.cache
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\obj\Debug\net7.0\Full Stack dotnet Developement Bootcamp.AssemblyInfo.cs
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\obj\Debug\net7.0\Full Stack dotnet Developement Bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\obj\Debug\net7.0\Full Stack dotnet Developement Bootcamp.dll
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\obj\Debug\net7.0\refint\Full Stack dotnet Developement Bootcamp.dll
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\obj\Debug\net7.0\Full Stack dotnet Developement Bootcamp.pdb
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\obj\Debug\net7.0\Full Stack dotnet Developement Bootcamp.genruntimeconfig.cache
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\obj\Debug\net7.0\ref\Full Stack dotnet Developement Bootcamp.dll
