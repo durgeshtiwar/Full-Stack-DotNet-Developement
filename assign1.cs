@@ -78,5 +78,5 @@ Durgesh.Gender = "Male";
 Durgesh.Qualification = "B.tech";
 Durgesh.Nationality = "Indian";
 Durgesh.eat("Rice and Daal");
-Durgesh.introduction();
+Durgesh.Introduction();
 Console.ReadLine();
