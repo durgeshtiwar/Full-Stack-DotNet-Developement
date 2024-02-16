@@ -35,14 +35,29 @@
 //     Console.WriteLine("Second Student got Maximum Marks which is "+total2+" and his name is "+secondStudent);
 // }
 
-int[] arr = new int[10];
-for (int i = 0; i < 10; i++)
+// int[] arr = new int[10];
+// for (int i = 0; i < 10; i++)
+// {
+//     Console.Write("Enter no.");
+//     arr[i]= Convert.ToInt32(Console.ReadLine());
+// }
+// for (int i = 0; i < 10; i++)
+// {
+//     Console.Write(arr[i]+"\n");
+// }
+// Console.ReadLine();
+
+
+// 21. Write a program in C# Sharp to display the sum of the series [ 9 + 99 + 999 + 9999 ...].
+// Test Data :
+
+Console.WriteLine("Enter the no .of terms you want to add in series");
+int num =Convert.ToInt32(Console.ReadLine());
+int j = 9, sum=0;
+for (int i = 0; i < num; i++)
 {
-    Console.Write("Enter no.");
-    arr[i]= Convert.ToInt32(Console.ReadLine());
+    sum = sum + j ;
+    j= j*10 + 9;
 }
-for (int i = 0; i < 10; i++)
-{
-    Console.Write(arr[i]+"\n");
-}
+Console.WriteLine("The Sum of Series is = "+sum);
 Console.ReadLine();
