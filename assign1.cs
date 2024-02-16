@@ -63,9 +63,20 @@
 // Console.ReadLine();
 
 using addition;
+using life;
 
 Number a = new Number();
 a.x = 7;
 a.y = 5;
 Console.WriteLine("Sum = " + a.add(a.x, a.y));
+Console.ReadLine();
+
+Human Durgesh = new Human();
+Durgesh.Name = "Durgesh";
+Durgesh.Age = 20;
+Durgesh.Gender = "Male";
+Durgesh.Qualification = "B.tech";
+Durgesh.Nationality = "Indian";
+Durgesh.eat("Rice and Daal");
+Durgesh.introduction();
 Console.ReadLine();
