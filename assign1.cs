@@ -51,13 +51,21 @@
 // 21. Write a program in C# Sharp to display the sum of the series [ 9 + 99 + 999 + 9999 ...].
 // Test Data :
 
-Console.WriteLine("Enter the no .of terms you want to add in series");
-int num =Convert.ToInt32(Console.ReadLine());
-int j = 9, sum=0;
-for (int i = 0; i < num; i++)
-{
-    sum = sum + j ;
-    j= j*10 + 9;
-}
-Console.WriteLine("The Sum of Series is = "+sum);
+// Console.WriteLine("Enter the no .of terms you want to add in series");
+// int num =Convert.ToInt32(Console.ReadLine());
+// int j = 9, sum=0;
+// for (int i = 0; i < num; i++)
+// {
+//     sum = sum + j ;
+//     j= j*10 + 9;
+// }
+// Console.WriteLine("The Sum of Series is = "+sum);
+// Console.ReadLine();
+
+using addition;
+
+Number a = new Number();
+a.x = 7;
+a.y = 5;
+Console.WriteLine("Sum = " + a.add(a.x, a.y));
 Console.ReadLine();
