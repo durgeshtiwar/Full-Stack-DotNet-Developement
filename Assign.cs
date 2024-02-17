@@ -8,12 +8,18 @@
 // num1.PrintComplexNumber();
 // Console.ReadLine();
 
-using Timejone;
+// using Timejone;
 
-Time time = new Time();
-Time time1 = new Time();
-time.setTime(66,34,72);
-time1.setTime(67,35,73);
-time.showTime();
-time.add(time1);
+// Time time = new Time();
+// Time time1 = new Time();
+// time.setTime(66,34,72);
+// time1.setTime(67,35,73);
+// time.showTime();
+// time.add(time1);
+// Console.ReadLine();
+
+using Maht;
+
+Cube cube = new Cube(8,6,9);
+cube.showData();
 Console.ReadLine();
