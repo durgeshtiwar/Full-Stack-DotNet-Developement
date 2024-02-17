@@ -11,5 +11,3 @@ num1.real =18;
 num1.SetComplexNumber(num1.real, num1.img);
 num1.PrintComplexNumber();
 Console.ReadLine();
-
-
