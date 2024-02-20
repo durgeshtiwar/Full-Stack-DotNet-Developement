@@ -18,8 +18,8 @@
 // time.add(time1);
 // Console.ReadLine();
 
-using Maht;
+using Math;
 
-Cube cube = new Cube(8,6,9);
+Cube cube = new Cube(10,10,10);
 cube.showData();
 Console.ReadLine();

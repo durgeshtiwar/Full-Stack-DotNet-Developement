@@ -1,6 +1,6 @@
 using System.Security.Cryptography.X509Certificates;
 
-namespace Maht
+namespace Math
 {
     public class Cube
     {
