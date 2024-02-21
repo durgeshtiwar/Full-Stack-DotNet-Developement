@@ -7,7 +7,19 @@ namespace ITexpertera
         public void  multiply(int x, int y);
         public void division(int x,int y);
     }
-    public class class1 : IExample
+    public interface ITest
+    {
+        public void Square(int x);
+    }
+    public class Sqrroot
+    {
+        public int squarRoot(double x)
+        {
+            double result = Math.Sqrt((double)x);
+            return (int)result;
+        }
+    }
+    public class class1:Sqrroot,IExample,ITest
     {
         public void add(int x, int y)
         {
@@ -25,6 +37,12 @@ namespace ITexpertera
         {
            int result = x*y;
             Console.WriteLine("The Multiplication of "+x+" and " +y+ " is: "+result);
+        }
+
+        public void Square(int x)
+        {
+            int result = x*x;
+            Console.WriteLine("The Square of " + x + " is: " + result);
         }
 
         public void substract(int x, int y)

@@ -23,6 +23,7 @@
 // Cube cube = new Cube(10,10,10);
 // cube.showData();
 // Console.ReadLine();
+
 using ITexpertera;
 
 class1 obj1 = new class1();
@@ -30,4 +31,8 @@ obj1.add(4,6);
 obj1.substract(8,3);
 obj1.multiply(4,5);
 obj1.division(8,2);
+obj1.Square(5);
+
+Console.WriteLine("Result of Squreroot is: " + obj1.squarRoot(49));
+Console.WriteLine("Press any key to exit");
 Console.ReadLine();
