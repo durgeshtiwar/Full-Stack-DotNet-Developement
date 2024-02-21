@@ -18,8 +18,16 @@
 // time.add(time1);
 // Console.ReadLine();
 
-using Math;
+// using Math;
 
-Cube cube = new Cube(10,10,10);
-cube.showData();
+// Cube cube = new Cube(10,10,10);
+// cube.showData();
+// Console.ReadLine();
+using ITexpertera;
+
+class1 obj1 = new class1();
+obj1.add(4,6);
+obj1.substract(8,3);
+obj1.multiply(4,5);
+obj1.division(8,2);
 Console.ReadLine();
