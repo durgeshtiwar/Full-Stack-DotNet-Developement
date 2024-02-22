@@ -61,30 +61,64 @@ public class Generic_Collection
 
 
     //Stack
-    Stack <string> stack1 = new Stack<string>();
+    // Stack <string> stack1 = new Stack<string>();
+    // public void insert()
+    // {
+    //     stack1.Push("Durgesh Tiwari");
+    //     stack1.Push("B.Tech");
+    //     stack1.Push("2006480100019");
+    //     stack1.Push("true");
+    //     stack1.Push("DateTime");
+    // }
+    // public void check()
+    // {
+    //     if (stack1.Contains("Durgesh Pratap Tiwari"))
+    //     {
+    //         Console.WriteLine("Element exists in the Stack.\n");
+    //     }
+    //     else
+    //     {
+    //         Console.WriteLine("Element are notexists in the Stack.\n");
+    //     }
+    // }
+    // public void read()
+    // {
+    //     Console.WriteLine("\nElements in the Stack are:");
+    //     foreach(var i in stack1)
+    //     {
+    //         Console.Write(i+"\n");
+            
+    //     }
+    // }
+    // public void delete()
+    // {
+    //     stack1.Pop();
+    // }
+    //Queue
+    Queue<string> queue1=new Queue<string>();
     public void insert()
     {
-        stack1.Push("Durgesh Tiwari");
-        stack1.Push("B.Tech");
-        stack1.Push("2006480100019");
-        stack1.Push("true");
-        stack1.Push("DateTime");
+        queue1.Enqueue("Durgesh Tiwari");
+        queue1.Enqueue("B.Tech");
+        queue1.Enqueue("2006480100019");
+        queue1.Enqueue("true");
+        queue1.Enqueue("DateTime");
     }
     public void check()
     {
-        if (stack1.Contains("Durgesh Pratap Tiwari"))
+        if (queue1.Contains("Durgesh Pratap Tiwari"))
         {
-            Console.WriteLine("Element exists in the Stack.\n");
+            Console.WriteLine("Element exists in the Queue.\n");
         }
         else
         {
-            Console.WriteLine("Element are notexists in the Stack.\n");
+            Console.WriteLine("Element are not exists in the Queue.\n");
         }
     }
     public void read()
     {
         Console.WriteLine("\nElements in the Stack are:");
-        foreach(var i in stack1)
+        foreach(var i in queue1)
         {
             Console.Write(i+"\n");
             
@@ -92,7 +126,8 @@ public class Generic_Collection
     }
     public void delete()
     {
-        stack1.Pop();
+        queue1.Dequeue();
     }   
+
 
 }
