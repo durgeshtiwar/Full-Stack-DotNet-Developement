@@ -90,31 +90,69 @@ public class Collection
     //     HashTable1.Clear();
     // }   
 
+    //Stack
 
-    Stack stack1 = new Stack();
+
+    // Stack stack1 = new Stack();
+    // public void insert()
+    // {
+    //     stack1.Push("Durgesh Tiwari");
+    //     stack1.Push("B.Tech");
+    //     stack1.Push(2006480100019);
+    //     stack1.Push(true);
+    //     stack1.Push(DateTime.Now);
+    // }
+    // public void check()
+    // {
+    //     if (stack1.Contains("Durgesh Pratap Tiwari"))
+    //     {
+    //         Console.WriteLine("Element exists in the Stack.\n");
+    //     }
+    //     else
+    //     {
+    //         Console.WriteLine("Element exists in the Stack.\n");
+    //     }
+    // }
+    // public void read()
+    // {
+    //     Console.WriteLine("\nElements in the Stack are:");
+    //     foreach(var i in stack1)
+    //     {
+    //         Console.Write(i+"\n");
+            
+    //     }
+    // }
+    // public void delete()
+    // {
+    //     stack1.Pop();
+    // }   
+
+
+    
+    Queue Queue1 = new Queue();
     public void insert()
     {
-        stack1.Push("Durgesh Tiwari");
-        stack1.Push("B.Tech");
-        stack1.Push(2006480100019);
-        stack1.Push(true);
-        stack1.Push(DateTime.Now);
+        Queue1.Enqueue("Durgesh Tiwari");
+        Queue1.Enqueue("B.Tech");
+        Queue1.Enqueue(2006480100019);
+        Queue1.Enqueue(true);
+        Queue1.Enqueue(DateTime.Now);
     }
     public void check()
     {
-        if (stack1.Contains("Durgesh Pratap Tiwari"))
+        if (Queue1.Contains("Durgesh Pratap Tiwari"))
         {
-            Console.WriteLine("Element exists in the Stack.\n");
+            Console.WriteLine("Element exists in the Queue.\n");
         }
         else
         {
-            Console.WriteLine("Element exists in the Stack.\n");
+            Console.WriteLine("Element not exists in the Queue.\n");
         }
     }
     public void read()
     {
         Console.WriteLine("\nElements in the Stack are:");
-        foreach(var i in stack1)
+        foreach(var i in Queue1)
         {
             Console.Write(i+"\n");
             
@@ -122,6 +160,6 @@ public class Collection
     }
     public void delete()
     {
-        stack1.Pop();
+        Queue1.Dequeue();
     }   
 }
