@@ -62,31 +62,66 @@ public class Collection
     //HashTable
 
 
-    Hashtable HashTable1 = new Hashtable();
+    // Hashtable HashTable1 = new Hashtable();
+    // public void insert()
+    // {
+    //     HashTable1.Add(1,"Durgesh Tiwari");
+    //     HashTable1.Add(2,"B.Tech.");
+    //     HashTable1.Add(3,2006480100019);
+    //     HashTable1.Add("isStudent",true);
+    //     HashTable1.Add(4,DateTime.Now);
+    // }
+    // public void upDate()
+    // {
+    //     HashTable1[1]="Durgesh Pratap Tiwari";
+    //     HashTable1[4]=DateTime.Now;
+    // }
+    // public void read()
+    // {
+    //     Console.WriteLine("\nElements in the HashTable are:");
+    //     foreach(DictionaryEntry i in HashTable1)
+    //     {
+    //         Console.Write("Key is "+i.Key+" and Value is "+i.Value+'\n');
+    //     }
+    // }
+    // public void delete()
+    // {
+    //     HashTable1.Remove(4);
+    //     HashTable1.Clear();
+    // }   
+
+
+    Stack stack1 = new Stack();
     public void insert()
     {
-        HashTable1.Add(1,"Durgesh Tiwari");
-        HashTable1.Add(2,"B.Tech.");
-        HashTable1.Add(3,2006480100019);
-        HashTable1.Add("isStudent",true);
-        HashTable1.Add(4,DateTime.Now);
+        stack1.Push("Durgesh Tiwari");
+        stack1.Push("B.Tech");
+        stack1.Push(2006480100019);
+        stack1.Push(true);
+        stack1.Push(DateTime.Now);
     }
-    public void upDate()
+    public void check()
     {
-        HashTable1[1]="Durgesh Pratap Tiwari";
-        HashTable1[4]=DateTime.Now;
+        if (stack1.Contains("Durgesh Pratap Tiwari"))
+        {
+            Console.WriteLine("Element exists in the Stack.\n");
+        }
+        else
+        {
+            Console.WriteLine("Element exists in the Stack.\n");
+        }
     }
     public void read()
     {
-        Console.WriteLine("\nElements in the HashTable are:");
-        foreach(DictionaryEntry i in HashTable1)
+        Console.WriteLine("\nElements in the Stack are:");
+        foreach(var i in stack1)
         {
-            Console.Write("Key is "+i.Key+" and Value is "+i.Value+'\n');
+            Console.Write(i+"\n");
+            
         }
     }
     public void delete()
     {
-        HashTable1.Remove(4);
-        HashTable1.Clear();
+        stack1.Pop();
     }   
 }
