@@ -39,10 +39,9 @@
 
 using Full_Stack_dotnet_Developement_Bootcamp;
 
-Collection obj1 = new Collection();
+Generic_Collection obj1 = new Generic_Collection();
 obj1.insert();
 obj1.read();
-obj1.check();
 obj1.delete();
 obj1.read();
 Console.WriteLine("\nPress any key");
