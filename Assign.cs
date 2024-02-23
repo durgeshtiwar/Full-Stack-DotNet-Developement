@@ -37,13 +37,20 @@
 // Console.WriteLine("Press any key to exit");
 // Console.ReadLine();
 
+// using Full_Stack_dotnet_Developement_Bootcamp;
+
+// Generic_Collection obj1 = new Generic_Collection();
+// obj1.insert();
+// obj1.read();
+// obj1.check();
+// obj1.delete();
+// obj1.read();
+// Console.WriteLine("\nPress any key");
+// Console.ReadLine();
+
 using Full_Stack_dotnet_Developement_Bootcamp;
 
-Generic_Collection obj1 = new Generic_Collection();
-obj1.insert();
-obj1.read();
-obj1.check();
-obj1.delete();
-obj1.read();
-Console.WriteLine("\nPress any key");
+TryCatchMethod obj1 = new TryCatchMethod();
+obj1.MyMethod1();
+Console.WriteLine("Press any key");
 Console.ReadLine();
