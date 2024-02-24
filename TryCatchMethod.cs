@@ -19,6 +19,10 @@ public class TryCatchMethod
         {
             Console.WriteLine(ex.Message);
         }
+        finally
+        {
+            Console.WriteLine("I'm  in the Finally Block mai to chuga he");
+        }
         
     }
 }
