@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ITExpertseraEmployeeinfo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7B62D5-F1A1-415E-9E1D-8DF4DC0948A1}|ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\itexpertseraemployeeinfo\\itexpertseraemployeeinfo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C7B62D5-F1A1-415E-9E1D-8DF4DC0948A1}|ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo.csproj|solutionrelative:itexpertseraemployeeinfo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7B62D5-F1A1-415E-9E1D-8DF4DC0948A1}|ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\itexpertseraemployeeinfo\\itexpertseraemployeeinfo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7B62D5-F1A1-415E-9E1D-8DF4DC0948A1}|ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo.csproj|solutionrelative:itexpertseraemployeeinfo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7B62D5-F1A1-415E-9E1D-8DF4DC0948A1}|ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\itexpertseraemployeeinfo\\itexpertseraemployeeinfo\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7B62D5-F1A1-415E-9E1D-8DF4DC0948A1}|ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo.csproj|solutionrelative:itexpertseraemployeeinfo\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7B62D5-F1A1-415E-9E1D-8DF4DC0948A1}|ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\itexpertseraemployeeinfo\\itexpertseraemployeeinfo\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7B62D5-F1A1-415E-9E1D-8DF4DC0948A1}|ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo.csproj|solutionrelative:itexpertseraemployeeinfo\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "ITExpertseraEmployeeinfo\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "ITExpertseraEmployeeinfo\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T15:58:17.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ITExpertseraEmployeeinfo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ITExpertseraEmployeeinfo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T15:34:55.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "ITExpertseraEmployeeinfo\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "ITExpertseraEmployeeinfo\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T14:21:03.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "ITExpertseraEmployeeinfo\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "ITExpertseraEmployeeinfo\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T14:09:03.509Z",
+              "EditorCaption": ""
             }
           ]
         }
