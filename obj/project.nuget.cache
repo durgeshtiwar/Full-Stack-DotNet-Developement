@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "trIC6tq7fS9uyP8fgrSVfXkX94MB9e3tAv1BoPFeRVh3PTDUlqEr9QQWQMchwO733s+KgHivpY+4MtfBH61jzg==",
+  "dgSpecHash": "/9rR6isi7PBnIWrgV5cWz4tw4m+A/I5kNzJroX+n6lDLIM8jh9PuWx0j3882oobvCvnq7ccvXr43yiWXlFXRbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\Full Stack dotnet Developement Bootcamp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\durge\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\durge\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\durge\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\durge\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

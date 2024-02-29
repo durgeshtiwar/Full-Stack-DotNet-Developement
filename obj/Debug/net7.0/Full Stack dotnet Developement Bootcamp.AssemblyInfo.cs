@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Full Stack dotnet Developement Bootcamp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af1eeced8140fd831657ca292b25c036f60c298a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Full Stack dotnet Developement Bootcamp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Full Stack dotnet Developement Bootcamp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
