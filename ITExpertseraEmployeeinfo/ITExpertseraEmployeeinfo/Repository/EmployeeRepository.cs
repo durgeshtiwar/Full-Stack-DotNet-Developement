@@ -4,8 +4,8 @@ namespace ITExpertseraEmployeeinfo.Repository
 {
     public class EmployeeRepository : IEmployeeRepository
     {
-        List<Employee> _employees = new List<Employee>();
-        public EmployeeRepository() 
+        public static List<Employee> _employees = new List<Employee>();
+        static EmployeeRepository() 
         {
             Employee objEmployee1 = new Employee();
             objEmployee1.id = 1;
@@ -19,6 +19,12 @@ namespace ITExpertseraEmployeeinfo.Repository
             _employees.Add(new Employee() { id = 3, name = "Kisalay Singh", city = "Azamgharh", salary = 8000 });
             _employees.Add(new Employee() { id = 4, name = "Shivam Yadav", city = "Prayagraj", salary = 9000 });
         }
+
+        public void createEmployee(Employee employee)
+        {
+            _employees.Add(employee);
+        }
+
         public void deleteEmployee(int id)
         {
             Employee employee = _employees.First(item => item.id == id);

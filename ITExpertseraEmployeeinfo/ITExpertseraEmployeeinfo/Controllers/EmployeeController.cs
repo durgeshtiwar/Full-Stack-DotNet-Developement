@@ -34,10 +34,11 @@ namespace ITExpertseraEmployeeinfo.Controllers
         // POST: EmployeeController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(Employee collection)
         {
             try
             {
+                _employeeRepository.createEmployee(collection);
                 return RedirectToAction(nameof(Index));
             }
             catch

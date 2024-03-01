@@ -6,6 +6,7 @@ namespace ITExpertseraEmployeeinfo.Repository
     {
         public List<Employee> GetEmployees();
         public Employee GetEmployeebyid(int id);
+        public void createEmployee(Employee employee);
         public void upDateEmployee(Employee employee);
         public void deleteEmployee(int id);
     }
