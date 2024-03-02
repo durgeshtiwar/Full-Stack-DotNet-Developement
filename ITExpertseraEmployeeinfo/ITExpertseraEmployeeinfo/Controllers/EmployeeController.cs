@@ -22,7 +22,8 @@ namespace ITExpertseraEmployeeinfo.Controllers
         // GET: EmployeeController/Details/5
         public ActionResult Details(int id)
         {
-            return View();
+            var Employee = _employeeRepository.GetEmployeebyid(id);
+            return View(Employee);
         }
 
         // GET: EmployeeController/Create
@@ -50,16 +51,18 @@ namespace ITExpertseraEmployeeinfo.Controllers
         // GET: EmployeeController/Edit/5
         public ActionResult Edit(int id)
         {
-            return View();
+            var Employee = _employeeRepository.GetEmployeebyid(id);
+            return View(Employee);
         }
 
         // POST: EmployeeController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Edit(int id, Employee collection)
         {
             try
             {
+                _employeeRepository.upDateEmployee(collection);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -71,16 +74,18 @@ namespace ITExpertseraEmployeeinfo.Controllers
         // GET: EmployeeController/Delete/5
         public ActionResult Delete(int id)
         {
+            var Empolyee = _employeeRepository.GetEmployeebyid(id); 
             return View();
         }
 
         // POST: EmployeeController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public ActionResult Delete(int id, Employee collection)
         {
             try
             {
+                _employeeRepository.deleteEmployee(id);
                 return RedirectToAction(nameof(Index));
             }
             catch
