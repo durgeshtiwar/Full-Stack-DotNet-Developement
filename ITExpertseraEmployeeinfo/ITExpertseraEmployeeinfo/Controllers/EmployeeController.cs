@@ -7,10 +7,10 @@ namespace ITExpertseraEmployeeinfo.Controllers
 {
     public class EmployeeController : Controller
     {
-        private EmployeeRepository _employeeRepository;
-        public EmployeeController()
+        private IEmployeeRepository _employeeRepository;
+        public EmployeeController(IEmployeeRepository employeeRepository)
         {
-            _employeeRepository = new EmployeeRepository();
+            _employeeRepository = employeeRepository;
         }
         // GET: EmployeeController
         public ActionResult Index()
