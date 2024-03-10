@@ -66,24 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "ITExpertseraEmployeeinfo\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "ITExpertseraEmployeeinfo\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAB0AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T14:32:36.222Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -95,8 +82,7 @@
               "RelativeToolTip": "ITExpertseraEmployeeinfo\\Migrations\\20240302142916_InitialCreate.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAABAAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T14:29:19.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-02T14:29:19.398Z"
             },
             {
               "$type": "Document",
@@ -108,8 +94,7 @@
               "RelativeToolTip": "ITExpertseraEmployeeinfo\\Repository\\SqlEmployeeRepository.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T13:15:19.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-02T13:15:19.923Z"
             },
             {
               "$type": "Document",
@@ -121,8 +106,7 @@
               "RelativeToolTip": "ITExpertseraEmployeeinfo\\appsettings.json",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAAAgAAACGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-02T12:17:47.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-02T12:17:47.819Z"
             },
             {
               "$type": "Document",
@@ -132,10 +116,22 @@
               "RelativeDocumentMoniker": "ITExpertseraEmployeeinfo\\Program.cs",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo\\Program.cs",
               "RelativeToolTip": "ITExpertseraEmployeeinfo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T16:24:34.602Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ITExpertseraEmployeeinfo\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ITExpertseraEmployeeinfo\\ITExpertseraEmployeeinfo\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ITExpertseraEmployeeinfo\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T14:32:36.222Z"
             },
             {
               "$type": "Document",
@@ -147,8 +143,7 @@
               "RelativeToolTip": "ITExpertseraEmployeeinfo\\Repository\\IEmployeeRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T14:09:03.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T14:09:03.509Z"
             },
             {
               "$type": "Document",
@@ -160,8 +155,7 @@
               "RelativeToolTip": "ITExpertseraEmployeeinfo\\Repository\\EmployeeRepository.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAAACsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T14:21:03.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T14:21:03.186Z"
             },
             {
               "$type": "Document",
@@ -173,8 +167,7 @@
               "RelativeToolTip": "ITExpertseraEmployeeinfo\\Controllers\\EmployeeController.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAAAAkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T15:34:55.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T15:34:55.32Z"
             },
             {
               "$type": "Document",
@@ -186,8 +179,7 @@
               "RelativeToolTip": "ITExpertseraEmployeeinfo\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T12:56:27.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-02T12:56:27.447Z"
             },
             {
               "$type": "Document",
@@ -199,8 +191,7 @@
               "RelativeToolTip": "ITExpertseraEmployeeinfo\\Views\\Employee\\Index.cshtml",
               "ViewState": "AQIAAB4AAAAAAAAAAIBJwDMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-29T15:58:17.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T15:58:17.96Z"
             },
             {
               "$type": "Document",
@@ -212,8 +203,7 @@
               "RelativeToolTip": "ITExpertseraEmployeeinfo\\Views\\Employee\\Details.cshtml",
               "ViewState": "AQIAAAgAAAAAAAAAAIBJwBUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-02T04:48:54.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-02T04:48:54.914Z"
             },
             {
               "$type": "Document",
@@ -225,8 +215,7 @@
               "RelativeToolTip": "ITExpertseraEmployeeinfo\\Views\\Employee\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-02T04:58:05.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-02T04:58:05.632Z"
             },
             {
               "$type": "Document",
@@ -238,8 +227,7 @@
               "RelativeToolTip": "ITExpertseraEmployeeinfo\\Views\\Employee\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-02T05:09:38.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-02T05:09:38.949Z"
             },
             {
               "$type": "Document",
@@ -251,8 +239,7 @@
               "RelativeToolTip": "ITExpertseraEmployeeinfo\\Views\\Employee\\Create.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-01T16:52:10.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T16:52:10.613Z"
             }
           ]
         }
