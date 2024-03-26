@@ -3,9 +3,10 @@ builder.Services.AddControllersWithViews();
 var app = builder.Build();
 
 //app.MapGet("/", () => "Hello World!");
-app.MapControllerRoute(
-    name:"default",
-    pattern:"{controller=User}/{action=Index}/{id?}"
-    );
+//app.MapControllerRoute(
+//    name:"default",
+//    pattern:"{controller=User}/{action=Index}/{id?}"
+//    );
+app.MapControllers();
 
 app.Run();
