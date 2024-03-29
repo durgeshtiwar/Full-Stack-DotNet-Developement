@@ -6,8 +6,8 @@ namespace WebApplicationWithoutMVC.Controllers
     public class HomeController : Controller
     {
         
-        [Route("~/")]
-        [Route("~/Home")]
+        //[Route("~/")]
+        //[Route("~/Home")]
         public IActionResult Index()
         {
             return View();

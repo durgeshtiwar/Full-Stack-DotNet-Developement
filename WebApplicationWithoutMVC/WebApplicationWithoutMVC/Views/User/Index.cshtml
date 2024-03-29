@@ -5,3 +5,28 @@
     ViewData["Title"] = "Index";
 }
 <h1>Index View From Usercontroller</h1>
+<h1>This is the User Contoller and current Date is @DateTime.Now</h1>
+<h1>Year is @DateTime.Now.Year</h1>
+
+@{
+    var name = "Durgesh";
+    var age = 20;
+}
+
+@{
+    var myName = "Durgesh";
+    if(myName.Equals(name))
+    {
+        <h1>Name = @myName</h1>
+        <h1>Age = @age</h1>
+    }
+    else
+    {
+        <h1>This is not Your Name</h1>
+    }
+    string[] names = { "Shubham", "Satyam", "Aman", "Rohan" };
+    foreach(var Name in names)
+    {
+        <h1>@Name</h1>
+    }
+}
