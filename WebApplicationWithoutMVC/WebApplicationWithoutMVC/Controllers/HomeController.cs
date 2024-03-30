@@ -5,14 +5,18 @@ namespace WebApplicationWithoutMVC.Controllers
     [Route("[Controller]/[Action]")]
     public class HomeController : Controller
     {
-        
-        //[Route("~/")]
-        //[Route("~/Home")]
+        [Route("")]
+        [Route("~/")]
+        [Route("~/Home")]
         public IActionResult Index()
         {
             return View();
         }
         public IActionResult About()
+        {
+            return View();
+        }
+        public IActionResult Contact()
         {
             return View();
         }

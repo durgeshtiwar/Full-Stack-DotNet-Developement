@@ -21,10 +21,10 @@ var app = builder.Build();
 
 
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=User}/{action=Index}/{id?}"
-    );
-//app.MapControllers();
+//app.MapControllerRoute(
+//    name: "default",
+//    pattern: "{controller=Home}/{action=Index}/{id?}"
+//    );
+app.MapControllers();
 
 app.Run();

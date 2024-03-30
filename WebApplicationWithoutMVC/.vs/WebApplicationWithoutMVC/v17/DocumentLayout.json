@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\WebApplicationWithoutMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\webapplicationwithoutmvc\\webapplicationwithoutmvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|solutionrelative:webapplicationwithoutmvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\webapplicationwithoutmvc\\webapplicationwithoutmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|solutionrelative:webapplicationwithoutmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\webapplicationwithoutmvc\\webapplicationwithoutmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|solutionrelative:webapplicationwithoutmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\webapplicationwithoutmvc\\webapplicationwithoutmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|solutionrelative:webapplicationwithoutmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\webapplicationwithoutmvc\\webapplicationwithoutmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|solutionrelative:webapplicationwithoutmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\webapplicationwithoutmvc\\webapplicationwithoutmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|solutionrelative:webapplicationwithoutmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\webapplicationwithoutmvc\\webapplicationwithoutmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|solutionrelative:webapplicationwithoutmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\webapplicationwithoutmvc\\webapplicationwithoutmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|solutionrelative:webapplicationwithoutmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\webapplicationwithoutmvc\\webapplicationwithoutmvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|solutionrelative:webapplicationwithoutmvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\webapplicationwithoutmvc\\webapplicationwithoutmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|solutionrelative:webapplicationwithoutmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\webapplicationwithoutmvc\\webapplicationwithoutmvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2705762C-27EB-4EE4-A652-63813A9EAAD3}|WebApplicationWithoutMVC\\WebApplicationWithoutMVC.csproj|solutionrelative:webapplicationwithoutmvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,32 +54,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\WebApplicationWithoutMVC\\WebApplicationWithoutMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationWithoutMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\WebApplicationWithoutMVC\\WebApplicationWithoutMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplicationWithoutMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T04:40:07.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\WebApplicationWithoutMVC\\WebApplicationWithoutMVC\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationWithoutMVC\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\WebApplicationWithoutMVC\\WebApplicationWithoutMVC\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WebApplicationWithoutMVC\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T04:35:04.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\WebApplicationWithoutMVC\\WebApplicationWithoutMVC\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "WebApplicationWithoutMVC\\Views\\Home\\About.cshtml",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\WebApplicationWithoutMVC\\WebApplicationWithoutMVC\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "WebApplicationWithoutMVC\\Views\\Home\\About.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-26T10:28:03.496Z"
+              "WhenOpened": "2024-03-26T10:28:03.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\WebApplicationWithoutMVC\\WebApplicationWithoutMVC\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplicationWithoutMVC\\Views\\User\\Index.cshtml",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\WebApplicationWithoutMVC\\WebApplicationWithoutMVC\\Views\\User\\Index.cshtml",
               "RelativeToolTip": "WebApplicationWithoutMVC\\Views\\User\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAwB0AAAAMAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-24T10:31:54.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\WebApplicationWithoutMVC\\WebApplicationWithoutMVC\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "WebApplicationWithoutMVC\\Controllers\\UserController.cs",
@@ -84,39 +119,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\WebApplicationWithoutMVC\\WebApplicationWithoutMVC\\Program.cs",
               "RelativeDocumentMoniker": "WebApplicationWithoutMVC\\Program.cs",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\WebApplicationWithoutMVC\\WebApplicationWithoutMVC\\Program.cs",
               "RelativeToolTip": "WebApplicationWithoutMVC\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAXAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-24T10:04:34.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\WebApplicationWithoutMVC\\WebApplicationWithoutMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplicationWithoutMVC\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\WebApplicationWithoutMVC\\WebApplicationWithoutMVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplicationWithoutMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-24T10:13:20.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\WebApplicationWithoutMVC\\WebApplicationWithoutMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplicationWithoutMVC\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\WebApplicationWithoutMVC\\WebApplicationWithoutMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebApplicationWithoutMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAABEAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-24T09:17:11.589Z",
               "EditorCaption": ""
