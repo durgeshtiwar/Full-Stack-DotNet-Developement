@@ -7,3 +7,40 @@
 }
 <h1>This is Index View From Homecontroller</h1>
 <h1>Index Page</h1>
+@* @ViewData["Data1"]
+<br />
+@ViewData["Data2"]
+<br />
+@ViewData["Data3"]
+<br />
+@{
+    foreach (var item in (string[])ViewData["Data4"])
+    {
+        <h1>@item</h1>
+    }
+}
+@{
+    foreach (var item in (ist<string>)ViewData["Data5"])
+    {
+        <h1>@item</h1>
+    }
+} *@
+
+@ViewBag.Data1
+<br />
+@ViewBag.Data2
+<br />
+@ViewBag.Data3
+<br />
+@{
+    foreach (var item in ViewBag.Data4)
+    {
+        <h1>@item</h1>
+    }
+}
+@{
+    foreach (var item in ViewBag.Data5)
+    {
+        <h1>@item</h1>
+    }
+}
