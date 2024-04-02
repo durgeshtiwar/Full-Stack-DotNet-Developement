@@ -22,24 +22,36 @@ namespace WebApplicationWithoutMVC.Controllers
 
 
 
-            ViewData["Data1"] = "Computer Science And Engineering";
-            ViewBag.Data2 = 20;
-            ViewBag.Data3 = DateTime.Now.ToLongDateString();
-            string[] arr = { "Durgesh", "Aditya", "Kisalay", "Shivam" };
-            ViewBag.Data4 = arr;
-            ViewBag.Data5 = new List<string>()
+            //ViewData["Data1"] = "Computer Science And Engineering";
+            //ViewBag.Data2 = 20;
+            //ViewBag.Data3 = DateTime.Now.ToLongDateString();
+            //string[] arr = { "Durgesh", "Aditya", "Kisalay", "Shivam" };
+            //ViewBag.Data4 = arr;
+            //ViewBag.Data5 = new List<string>()
+            //{
+            //    "Cricket","Football","Hockey"
+            //};
+
+
+            TempData["Data1"] = "Computer Science And Engineering";
+            TempData["Data2"] = 25;
+            TempData["Data3"] = DateTime.Now.ToLongDateString();
+            TempData["Data4"] = new List<string>()
             {
                 "Cricket","Football","Hockey"
             };
+            TempData.Keep();
 
             return View();
         }
         public IActionResult About()
         {
+            TempData.Keep();
             return View();
         }
         public IActionResult Contact()
         {
+            TempData.Keep();
             return View();
         }
         [Route("{id?}")]

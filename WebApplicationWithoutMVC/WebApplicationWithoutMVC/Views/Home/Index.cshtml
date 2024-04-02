@@ -26,21 +26,17 @@
     }
 } *@
 
-@ViewBag.Data1
+@TempData["Data1"]
 <br />
-@ViewBag.Data2
+@TempData["Data2"]
 <br />
-@ViewBag.Data3
+@TempData["Data3"]
 <br />
-@{
-    foreach (var item in ViewBag.Data4)
-    {
-        <h1>@item</h1>
-    }
-}
-@{
+
+
+@* @{
     foreach (var item in ViewBag.Data5)
     {
         <h1>@item</h1>
     }
-}
+} *@
