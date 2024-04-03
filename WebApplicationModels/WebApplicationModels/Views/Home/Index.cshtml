@@ -1,13 +1,15 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
-    var student = ViewData["myStudent"] as List<StudentModel>;
+    // var student = ViewData["myStudent"] as List<StudentModel>;
+    var student = ViewBag.myStudent;
+    // var onlyStudent = TempData["onlyStudent"] as List<StudentModel>;
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
-@* <table>
+<table>
     <tr>
         <th>ROLL NO</th>
         <th>NAME</th>
@@ -23,6 +25,28 @@
             <td>@item.gender</td>
             <td>@item.standard</td>
         </tr>
+    }
+
+
+</table>
+@* <table>
+    <tr>
+        <th>ROLL NO</th>
+        <th>NAME</th>
+        <th>GENDER</th>
+        <th>STANDARD</th>
+    </tr>
+    @if (onlyStudent!= null)
+    {
+        @foreach (var item in onlyStudent)
+        {
+            <tr>
+                <td>@item.rollNo</td>
+                <td>@item.name</td>
+                <td>@item.gender</td>
+                <td>@item.standard</td>
+            </tr>
+        }
     }
 
 
