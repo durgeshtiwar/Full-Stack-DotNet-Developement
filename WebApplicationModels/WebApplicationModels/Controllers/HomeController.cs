@@ -34,9 +34,9 @@ namespace WebApplicationModels.Controllers
             new StudentModel { rollNo = 4, name = "Roli Tiawri", gender = "Female", standard = 10 },
             };
             //ViewData["myStudent"] = student;
-            ViewBag.myStudent = student;
+            //ViewBag.myStudent = student;
             //TempData["OnylStudent"] = student;
-            return View();
+            return View(student);
            
         }
 
