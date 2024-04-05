@@ -1,0 +1,15 @@
+﻿ @model List<Student>
+
+@{
+    ViewData["Title"] = "About";
+}
+
+<h1>About</h1>
+@{
+    foreach (var item in Model)
+    {
+        <h1>@item.id</h1>
+        <h1>@item.name</h1>
+        <h1>@item.gender</h1>
+    }
+}

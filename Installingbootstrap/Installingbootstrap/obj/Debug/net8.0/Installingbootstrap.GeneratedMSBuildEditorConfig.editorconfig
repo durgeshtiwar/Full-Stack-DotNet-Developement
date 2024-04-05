@@ -26,10 +26,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\Installingbootstrap\Installingbootstrap
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/durge/OneDrive/Desktop/Full Stack dotnet Developement Bootcamp/Installingbootstrap/Installingbootstrap/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durge/OneDrive/Desktop/Full Stack dotnet Developement Bootcamp/Installingbootstrap/Installingbootstrap/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/durge/OneDrive/Desktop/Full Stack dotnet Developement Bootcamp/Installingbootstrap/Installingbootstrap/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/durge/OneDrive/Desktop/Full Stack dotnet Developement Bootcamp/Installingbootstrap/Installingbootstrap/Views/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durge/OneDrive/Desktop/Full Stack dotnet Developement Bootcamp/Installingbootstrap/Installingbootstrap/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

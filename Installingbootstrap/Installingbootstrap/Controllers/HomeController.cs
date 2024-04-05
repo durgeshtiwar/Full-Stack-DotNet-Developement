@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Installingbootstrap.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Installingbootstrap.Controllers
 {
@@ -6,7 +7,33 @@ namespace Installingbootstrap.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            var student = new List<Student>()
+            {
+                new Student{id= 1,name= "Durgesh Tiwari",gender = "Male"},
+                new Student{id= 2,name= "Shubham Tiwari",gender = "Male"},
+                new Student{id= 3,name= "Aditya Tiwari",gender = "Male"},
+            };
+            return View(student);
+        }
+        public IActionResult About()
+        {
+            var student = new List<Student>()
+            {
+                new Student{id= 1,name= "Durgesh Tiwari",gender = "Male"},
+                new Student{id= 2,name= "Shubham Tiwari",gender = "Male"},
+                new Student{id= 3,name= "Aditya Tiwari",gender = "Male"},
+            };
+            return View(student);
+        }
+        public IActionResult Contact()
+        {
+            var student = new List<Student>()
+            {
+                new Student{id= 1,name= "Durgesh Tiwari",gender = "Male"},
+                new Student{id= 2,name= "Shubham Tiwari",gender = "Male"},
+                new Student{id= 3,name= "Aditya Tiwari",gender = "Male"},
+            };
+            return View(student);
         }
     }
 }
