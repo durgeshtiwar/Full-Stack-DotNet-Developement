@@ -39,6 +39,10 @@ namespace WebApplicationModels.Controllers
             return View(student);
            
         }
+        public IActionResult Edit()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
