@@ -1,4 +1,4 @@
-﻿@model TagHelperDemo.Models.Employee
+﻿@model Employee
 @{
     ViewData["Title"] = "Home Page";
 }
@@ -11,13 +11,39 @@
     <div class="row" >
         <div class="col-sm-4" >
             <form class="d-grid" asp-controller="Home" asp-action="Index" method="post">
+                <label asp-for="name">Name</label>
                 <input asp-for="name" placeholder="Enter Name" class="form-control"/>
                 <br />
                 <input asp-for="age" placeholder="Age" class="form-control"/>
                 <br />
+                <select asp-for="Gender" class="form-control" asp-items="Html.GetEnumSelectList<Gender>()">
+                    <option value="">Select Gender</option>
+                </select>
+                <br />
+                <label>
+                    Married:
+                </label>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="married" value="Yes">
+                    <label class="form-check-label" for="flexRadioDisabled">
+                        Yes
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="married" value="Yes">
+                    <label class="form-check-label" for="flexRadioCheckedDisabled" >
+                        No
+                    </label>
+                </div>
+               
+                <br />
                 <input asp-for="designation" placeholder="Enter Designation" class="form-control" />
                 <br />
                 <input asp-for="sallary" placeholder="Enter Sallary" class="form-control" />
+                <br />
+                <textarea asp-for="description" placeholder="Enter Description" class="form-control" rows="5">
+
+                </textarea>
                 <br />
                 <input type="submit" value="Submit" class="btn btn-outline-primary btn-block" />
              
