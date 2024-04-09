@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\TagHelperDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{23E552A3-0A48-48EE-BF78-FD9AA9C69CDC}|TagHelperDemo\\TagHelperDemo.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\taghelperdemo\\taghelperdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E552A3-0A48-48EE-BF78-FD9AA9C69CDC}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23E552A3-0A48-48EE-BF78-FD9AA9C69CDC}|TagHelperDemo\\TagHelperDemo.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\taghelperdemo\\taghelperdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23E552A3-0A48-48EE-BF78-FD9AA9C69CDC}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -31,25 +35,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\TagHelperDemo\\TagHelperDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TagHelperDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\TagHelperDemo\\TagHelperDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TagHelperDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:51:39.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\TagHelperDemo\\TagHelperDemo\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TagHelperDemo\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\TagHelperDemo\\TagHelperDemo\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "TagHelperDemo\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAACsAAABOAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-07T09:47:10.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\TagHelperDemo\\TagHelperDemo\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "TagHelperDemo\\Models\\Employee.cs",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\TagHelperDemo\\TagHelperDemo\\Models\\Employee.cs",
               "RelativeToolTip": "TagHelperDemo\\Models\\Employee.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAowAcAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T09:48:56.096Z",
               "EditorCaption": ""

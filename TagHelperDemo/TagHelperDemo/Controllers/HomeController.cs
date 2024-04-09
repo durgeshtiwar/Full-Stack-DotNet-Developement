@@ -18,6 +18,12 @@ namespace TagHelperDemo.Controllers
             return View();
         }
 
+        [HttpPost]
+        public string Index(Employee emp)
+        {
+            return "Name : " + emp.name + "Age : " + emp.age + "Gender : " + emp.Gender +"Designation : " + emp.designation + "Sallary : " + emp.sallary+"Married : " + emp.married+"Description : " + emp.description;
+        }
+
         public IActionResult Privacy()
         {
             return View();
