@@ -20,6 +20,10 @@ namespace AspValidation.Controllers
         [HttpPost]
         public IActionResult Index(Student std)
         {
+            if (ModelState.IsValid)
+            {
+                ModelState.Clear();
+            }
             return View();
         }
         public IActionResult Privacy()
