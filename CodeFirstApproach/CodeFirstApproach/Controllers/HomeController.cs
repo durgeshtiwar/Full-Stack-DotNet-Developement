@@ -30,6 +30,7 @@ namespace CodeFirstApproach.Controllers
             return View();
         }
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(Student std)
         {
             if (ModelState.IsValid)
@@ -52,6 +53,61 @@ namespace CodeFirstApproach.Controllers
                 return NotFound();
             }
             return View(studentData);
+        }
+        public async Task<IActionResult> Edit(int? Id)
+        {
+            if (Id == null || studentDb.Students == null)
+            {
+                return NotFound();
+            }
+            var studentData = await studentDb.Students.FindAsync(Id);
+            if (studentData == null)
+            {
+                return NotFound();
+            }
+            return View(studentData);
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult>Edit(int? Id, Student std)
+        {
+            if (std.id != Id)
+            {
+                return NotFound();
+            }
+            if (ModelState.IsValid)
+            {
+                //studentDb.Students.Update(std); Or
+                studentDb.Update(std);
+                await studentDb.SaveChangesAsync();
+                return RedirectToAction("Index", "Home");
+            }
+            return View();
+        }
+        public async Task<IActionResult> Delete(int? Id)
+        {
+            if (Id == null || studentDb.Students == null)
+            {
+                return NotFound();
+            }
+            var studentData = await studentDb.Students.FirstOrDefaultAsync(x => x.id == Id);
+            if (studentData == null)
+            {
+                return NotFound();
+            }
+            return View(studentData);
+        }
+        [HttpPost,ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> ConfirmDelete(int? Id)
+        {
+            var studentData = await studentDb.Students.FindAsync(Id);
+            if (studentData != null)
+            {
+                studentDb.Students.Remove(studentData);
+            }
+            await studentDb.SaveChangesAsync();
+            return RedirectToAction("Index", "Home");
         }
 
         public IActionResult Privacy()
