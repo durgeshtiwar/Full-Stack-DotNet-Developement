@@ -8,10 +8,14 @@ namespace CodeFirstApproach.Models
         [Key]
         public int id { get; set; }
         [Column("StudentName",TypeName = "varchar(100)")]
+        [Required]
         public string name { get; set; }
         [Column("Gender", TypeName = "varchar(20)")]
+        [Required]
         public string gender { get; set; }
-        public int age { get; set; }
-        public int standard { get; set; }
+        [Required]
+        public int? age { get; set; }
+        [Required]
+        public int? standard { get; set; }
     }
 }
