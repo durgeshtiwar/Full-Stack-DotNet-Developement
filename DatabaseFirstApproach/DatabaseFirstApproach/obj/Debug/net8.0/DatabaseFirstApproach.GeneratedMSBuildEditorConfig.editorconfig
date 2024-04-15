@@ -26,8 +26,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\DatabaseFirstApproach\DatabaseFirstApproach
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/durge/OneDrive/Desktop/Full Stack dotnet Developement Bootcamp/DatabaseFirstApproach/DatabaseFirstApproach/Views/Home/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durge/OneDrive/Desktop/Full Stack dotnet Developement Bootcamp/DatabaseFirstApproach/DatabaseFirstApproach/Views/Home/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/durge/OneDrive/Desktop/Full Stack dotnet Developement Bootcamp/DatabaseFirstApproach/DatabaseFirstApproach/Views/Home/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/durge/OneDrive/Desktop/Full Stack dotnet Developement Bootcamp/DatabaseFirstApproach/DatabaseFirstApproach/Views/Home/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/durge/OneDrive/Desktop/Full Stack dotnet Developement Bootcamp/DatabaseFirstApproach/DatabaseFirstApproach/Views/Home/Index.cshtml]

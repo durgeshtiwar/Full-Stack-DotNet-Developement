@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{85FDA69E-E8A2-4DCC-89FF-C62E4FE9712B}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{85FDA69E-E8A2-4DCC-89FF-C62E4FE9712B}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\databasefirstapproach\\databasefirstapproach\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85FDA69E-E8A2-4DCC-89FF-C62E4FE9712B}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FDA69E-E8A2-4DCC-89FF-C62E4FE9712B}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\databasefirstapproach\\databasefirstapproach\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85FDA69E-E8A2-4DCC-89FF-C62E4FE9712B}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FDA69E-E8A2-4DCC-89FF-C62E4FE9712B}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\databasefirstapproach\\databasefirstapproach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85FDA69E-E8A2-4DCC-89FF-C62E4FE9712B}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FDA69E-E8A2-4DCC-89FF-C62E4FE9712B}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\databasefirstapproach\\databasefirstapproach\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FDA69E-E8A2-4DCC-89FF-C62E4FE9712B}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{85FDA69E-E8A2-4DCC-89FF-C62E4FE9712B}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\databasefirstapproach\\databasefirstapproach\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{85FDA69E-E8A2-4DCC-89FF-C62E4FE9712B}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{85FDA69E-E8A2-4DCC-89FF-C62E4FE9712B}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\databasefirstapproach\\databasefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{85FDA69E-E8A2-4DCC-89FF-C62E4FE9712B}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|solutionrelative:databasefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\DatabaseFirstApproach\\DatabaseFirstApproach\\Models\\CodeFirstDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DatabaseFirstApproach\\Models\\CodeFirstDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85FDA69E-E8A2-4DCC-89FF-C62E4FE9712B}|DatabaseFirstApproach\\DatabaseFirstApproach.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\databasefirstapproach\\databasefirstapproach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,6 +59,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\DatabaseFirstApproach\\DatabaseFirstApproach\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstApproach\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\DatabaseFirstApproach\\DatabaseFirstApproach\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "DatabaseFirstApproach\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T07:16:01.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\DatabaseFirstApproach\\DatabaseFirstApproach\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstApproach\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\DatabaseFirstApproach\\DatabaseFirstApproach\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "DatabaseFirstApproach\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T07:08:54.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\DatabaseFirstApproach\\DatabaseFirstApproach\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstApproach\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\DatabaseFirstApproach\\DatabaseFirstApproach\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "DatabaseFirstApproach\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T06:43:54.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\DatabaseFirstApproach\\DatabaseFirstApproach\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "DatabaseFirstApproach\\Views\\Home\\Details.cshtml",
@@ -54,12 +105,11 @@
               "RelativeToolTip": "DatabaseFirstApproach\\Views\\Home\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T06:24:58.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T06:24:58.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\DatabaseFirstApproach\\DatabaseFirstApproach\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DatabaseFirstApproach\\Views\\Home\\Index.cshtml",
@@ -67,8 +117,7 @@
               "RelativeToolTip": "DatabaseFirstApproach\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T05:53:30.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T05:53:30.92Z"
             },
             {
               "$type": "Document",
@@ -78,14 +127,14 @@
               "RelativeDocumentMoniker": "DatabaseFirstApproach\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\DatabaseFirstApproach\\DatabaseFirstApproach\\Controllers\\HomeController.cs",
               "RelativeToolTip": "DatabaseFirstApproach\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBEAAAAkAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T05:47:04.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\DatabaseFirstApproach\\DatabaseFirstApproach\\Program.cs",
               "RelativeDocumentMoniker": "DatabaseFirstApproach\\Program.cs",
@@ -93,12 +142,11 @@
               "RelativeToolTip": "DatabaseFirstApproach\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T05:40:47.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T05:40:47.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\DatabaseFirstApproach\\DatabaseFirstApproach\\appsettings.json",
               "RelativeDocumentMoniker": "DatabaseFirstApproach\\appsettings.json",
@@ -106,8 +154,7 @@
               "RelativeToolTip": "DatabaseFirstApproach\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-15T05:34:40.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T05:34:40.902Z"
             },
             {
               "$type": "Document",
@@ -117,7 +164,7 @@
               "RelativeDocumentMoniker": "DatabaseFirstApproach\\Models\\CodeFirstDbContext.cs",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\DatabaseFirstApproach\\DatabaseFirstApproach\\Models\\CodeFirstDbContext.cs",
               "RelativeToolTip": "DatabaseFirstApproach\\Models\\CodeFirstDbContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T05:31:38.715Z",
               "EditorCaption": ""
