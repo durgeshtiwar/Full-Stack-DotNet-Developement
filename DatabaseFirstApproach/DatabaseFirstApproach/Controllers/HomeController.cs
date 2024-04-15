@@ -1,113 +1,156 @@
-using DatabaseFirstApproach.Models;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
+using DatabaseFirstApproach.Models;
 
 namespace DatabaseFirstApproach.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-        private readonly CodeFirstDbContext _contex;
+        private readonly CodeFirstDbContext _context;
 
-        public HomeController(ILogger<HomeController> logger,CodeFirstDbContext _contex)
+        public HomeController(CodeFirstDbContext context)
         {
-            _logger = logger;
-            this._contex = _contex;
+            _context = context;
         }
 
-        public IActionResult Index()
+        // GET: Home
+        public async Task<IActionResult> Index()
         {
-            var studentData = _contex.Students.ToList();
-            return View(studentData);
+            return View(await _context.Students.ToListAsync());
         }
-        public IActionResult Details(int? id)
+
+        // GET: Home/Details/5
+        public async Task<IActionResult> Details(int? id)
         {
-            var studentData = _contex.Students.FirstOrDefault(x => x.Id == id);
-            return View(studentData);
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var student = await _context.Students
+                .FirstOrDefaultAsync(m => m.Id == id);
+            if (student == null)
+            {
+                return NotFound();
+            }
+
+            return View(student);
         }
+
+        // GET: Home/Create
         public IActionResult Create()
         {
             return View();
         }
+
+        // POST: Home/Create
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
-        public IActionResult Create(Student std)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create([Bind("Id,StudentName,Gender,Age,Standard")] Student student)
         {
             if (ModelState.IsValid)
             {
-                var studentData = _contex.Students.Add(std);
-                _contex.SaveChanges();
-                
+                _context.Add(student);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
             }
-            return RedirectToAction("Index", "Home");
-            //return View();
+            return View(student);
         }
-        public IActionResult Edit(int? id)
+
+        // GET: Home/Edit/5
+        public async Task<IActionResult> Edit(int? id)
         {
-            if (id == null||_contex.Students == null)
+            if (id == null)
             {
                 return NotFound();
             }
-            var studentData = _contex.Students.Find(id);
-            if (studentData == null)
+
+            var student = await _context.Students.FindAsync(id);
+            if (student == null)
             {
                 return NotFound();
             }
-            return View(studentData);
+            return View(student);
         }
+
+        // POST: Home/Edit/5
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
-        public IActionResult Edit(int? id , Student std)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(int id, [Bind("Id,StudentName,Gender,Age,Standard")] Student student)
         {
-            if (std.Id != id)
+            if (id != student.Id)
             {
                 return NotFound();
             }
+
             if (ModelState.IsValid)
             {
-                var studentData = _contex.Students.Update(std);
-                _contex.SaveChanges();
-                
+                try
+                {
+                    _context.Update(student);
+                    await _context.SaveChangesAsync();
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    if (!StudentExists(student.Id))
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
+                }
+                return RedirectToAction(nameof(Index));
             }
-            return RedirectToAction("Index", "Home");
-            //return View();
+            return View(student);
         }
-        public IActionResult Delete(int ? id)
+
+        // GET: Home/Delete/5
+        public async Task<IActionResult> Delete(int? id)
         {
-            if (id == null || _contex.Students == null)
+            if (id == null)
             {
                 return NotFound();
             }
-            var studentData = _contex.Students.FirstOrDefault(x=>x.Id == id);
-            if (studentData == null)
+
+            var student = await _context.Students
+                .FirstOrDefaultAsync(m => m.Id == id);
+            if (student == null)
             {
                 return NotFound();
             }
-            return View(studentData);
+
+            return View(student);
         }
-        [HttpPost,ActionName("Delete")]
-        public IActionResult ConfirmDelete(int? id)
+
+        // POST: Home/Delete/5
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var studentData = _contex.Students.Find(id);
-            if (studentData != null)
+            var student = await _context.Students.FindAsync(id);
+            if (student != null)
             {
-                _contex.Students.Remove(studentData);
+                _context.Students.Remove(student);
             }
-            _contex.SaveChanges();
-            return RedirectToAction("Index", "Home");
+
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
         }
 
-
-
-
-
-        public IActionResult Privacy()
+        private bool StudentExists(int id)
         {
-            return View();
-        }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return _context.Students.Any(e => e.Id == id);
         }
     }
 }
