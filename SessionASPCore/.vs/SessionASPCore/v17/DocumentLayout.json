@@ -50,8 +50,7 @@
               "RelativeToolTip": "SessionASPCore\\Views\\Home\\Logout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T05:43:58.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T05:43:58.033Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "SessionASPCore\\Views\\Home\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T05:23:09.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T05:23:09.901Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "SessionASPCore\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAABMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T05:07:42.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T05:07:42.236Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "SessionASPCore\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T05:04:05.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T05:04:05.529Z"
             }
           ]
         }
