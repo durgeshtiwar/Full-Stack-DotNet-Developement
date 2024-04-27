@@ -20,6 +20,10 @@ namespace CreatingLoginForm.Controllers
         }
         public IActionResult Login()
         {
+            if (HttpContext.Session.GetString("MySession") != null)
+            {
+                return RedirectToAction("Dashboard");
+            }
             return View();
         }
         [HttpPost]
@@ -45,6 +49,15 @@ namespace CreatingLoginForm.Controllers
             }
             else
             {
+                return RedirectToAction("Login");
+            }
+            return View();
+        }
+        public IActionResult Logout()
+        {
+            if (HttpContext.Session.GetString("MySession") != null)
+            {
+                HttpContext.Session.Remove("MySession");
                 return RedirectToAction("Login");
             }
             return View();
