@@ -1,20 +1,52 @@
 using CreatingLoginForm.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Http;
 
 namespace CreatingLoginForm.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly CodeFirstDbContext context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(CodeFirstDbContext _context)
         {
-            _logger = logger;
+            this.context = _context;
         }
-
         public IActionResult Index()
         {
+            return View();
+        }
+        public IActionResult Login()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Login(Employee emp)
+        {
+            var myUser = context.Employees.Where(x => x.Email == emp.Email && x.Password == emp.Password).FirstOrDefault();
+            if (myUser != null)
+            {
+                HttpContext.Session.SetString("MySession",myUser.Email);
+                return RedirectToAction("Dashboard");
+            }
+            else
+            {
+                ViewBag.Message = "Login Failed..";
+            }
+            return View();
+        }
+        public IActionResult Dashboard()
+        {
+            if (HttpContext.Session.GetString("MySession")!=null)
+            {
+                ViewBag.userMessage = HttpContext.Session.GetString("MySession").ToString();
+            }
+            else
+            {
+                return RedirectToAction("Login");
+            }
             return View();
         }
 
