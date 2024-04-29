@@ -31,17 +31,17 @@ public partial class CodeFirstDbContext : DbContext
     {
         modelBuilder.Entity<Employee>(entity =>
         {
-            entity
-                .HasNoKey()
-                .ToTable("Employee");
-
+            //entity
+            //    .HasNoKey()
+            //    .ToTable("Employee");
+            entity.Property(e => e.Id).HasColumnName("id");
             entity.Property(e => e.Email)
                 .HasMaxLength(300)
                 .IsUnicode(false);
             entity.Property(e => e.Gender)
                 .HasMaxLength(300)
                 .IsUnicode(false);
-            entity.Property(e => e.Id).HasColumnName("id");
+           
             entity.Property(e => e.Name)
                 .HasMaxLength(300)
                 .IsUnicode(false)

@@ -62,7 +62,22 @@ namespace CreatingLoginForm.Controllers
             }
             return View();
         }
-
+        public IActionResult Register()
+        {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> Register(Employee emp)
+        {
+            if (ModelState.IsValid)
+            {
+                await context.Employees.AddAsync(emp);
+                await context.SaveChangesAsync();
+                TempData["Register"] = "Registered Successfully";
+                return RedirectToAction("Login");
+            }
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
