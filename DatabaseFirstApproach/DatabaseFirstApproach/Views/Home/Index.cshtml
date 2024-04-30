@@ -1,5 +1,4 @@
 ﻿@model IEnumerable<DatabaseFirstApproach.Models.Student>
-
 @{
     ViewData["Title"] = "Index";
 }
@@ -51,3 +50,7 @@
 }
     </tbody>
 </table>
+@* <label class="form-label" >Select Gender: </label>
+@Html.DropDownListfor(
+"Gender", Html.GetEnumSelectList< Gender >(),
+"Select Gender", new { @class = "form-control" }) *@

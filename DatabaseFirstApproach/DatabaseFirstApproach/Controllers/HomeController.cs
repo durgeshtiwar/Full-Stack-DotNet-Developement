@@ -11,6 +11,11 @@ namespace DatabaseFirstApproach.Controllers
 {
     public class HomeController : Controller
     {
+        //public enum Gender
+        //{
+        //    Male = 0,
+        //    Fmale = 1
+        //}
         private readonly CodeFirstDbContext _context;
 
         public HomeController(CodeFirstDbContext context)
@@ -45,6 +50,12 @@ namespace DatabaseFirstApproach.Controllers
         // GET: Home/Create
         public IActionResult Create()
         {
+            List<SelectListItem> Gender = new()
+            {
+                new SelectListItem{Value="Male", Text="Male"},
+                new SelectListItem{Value="Female", Text="Female"}
+            };
+            ViewBag.Gender = Gender;
             return View();
         }
 
