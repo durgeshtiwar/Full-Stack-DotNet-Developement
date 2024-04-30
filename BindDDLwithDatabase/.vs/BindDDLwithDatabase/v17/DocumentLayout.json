@@ -30,8 +30,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -42,8 +50,7 @@
               "RelativeToolTip": "BindDDLwithDatabase\\Models\\StudentModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T08:01:25.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T08:01:25.172Z"
             },
             {
               "$type": "Document",
@@ -55,8 +62,7 @@
               "RelativeToolTip": "BindDDLwithDatabase\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T07:54:37.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T07:54:37.105Z"
             },
             {
               "$type": "Document",
@@ -66,7 +72,7 @@
               "RelativeDocumentMoniker": "BindDDLwithDatabase\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\BindDDLwithDatabase\\BindDDLwithDatabase\\Controllers\\HomeController.cs",
               "RelativeToolTip": "BindDDLwithDatabase\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABcAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T07:52:00.443Z",
               "EditorCaption": ""
@@ -81,16 +87,7 @@
               "RelativeToolTip": "BindDDLwithDatabase\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-30T07:49:57.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "WhenOpened": "2024-04-30T07:49:57.428Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "BindDDLwithDatabase\\Models\\CodeFirstDbContext.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAAABsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T07:48:36.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T07:48:36.032Z"
             }
           ]
         }

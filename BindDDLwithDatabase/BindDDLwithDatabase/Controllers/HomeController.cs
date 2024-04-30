@@ -18,9 +18,6 @@ namespace BindDDLwithDatabase.Controllers
         {
             this.context = context;
         }
-
-
-
         public IActionResult Index()
         {
             return View();

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\CreatingLoginForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A62D2929-7635-4F6E-B112-4E0CE46621E8}|CreatingLoginForm\\CreatingLoginForm.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\creatingloginform\\creatingloginform\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A62D2929-7635-4F6E-B112-4E0CE46621E8}|CreatingLoginForm\\CreatingLoginForm.csproj|solutionrelative:creatingloginform\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A62D2929-7635-4F6E-B112-4E0CE46621E8}|CreatingLoginForm\\CreatingLoginForm.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\creatingloginform\\creatingloginform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A62D2929-7635-4F6E-B112-4E0CE46621E8}|CreatingLoginForm\\CreatingLoginForm.csproj|solutionrelative:creatingloginform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62D2929-7635-4F6E-B112-4E0CE46621E8}|CreatingLoginForm\\CreatingLoginForm.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\creatingloginform\\creatingloginform\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62D2929-7635-4F6E-B112-4E0CE46621E8}|CreatingLoginForm\\CreatingLoginForm.csproj|solutionrelative:creatingloginform\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A62D2929-7635-4F6E-B112-4E0CE46621E8}|CreatingLoginForm\\CreatingLoginForm.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\creatingloginform\\creatingloginform\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,8 +66,7 @@
               "RelativeToolTip": "CreatingLoginForm\\Views\\Home\\Register.cshtml",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAABoAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T06:36:49.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T06:36:49.927Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "CreatingLoginForm\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-27T05:12:54.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T05:12:54.359Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "CreatingLoginForm\\Models\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T05:06:59.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T05:06:59.527Z"
             },
             {
               "$type": "Document",
@@ -117,18 +114,17 @@
               "RelativeToolTip": "CreatingLoginForm\\Views\\Home\\Login.cshtml",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAABMAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-27T04:14:27.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T04:14:27.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\CreatingLoginForm\\CreatingLoginForm\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CreatingLoginForm\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\CreatingLoginForm\\CreatingLoginForm\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CreatingLoginForm\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAAEYAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T04:06:17.568Z",
               "EditorCaption": ""
@@ -147,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CodeFirstDbContext.cs",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\CreatingLoginForm\\CreatingLoginForm\\Models\\CodeFirstDbContext.cs",
               "RelativeDocumentMoniker": "CreatingLoginForm\\Models\\CodeFirstDbContext.cs",

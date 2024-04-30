@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\SessionASPCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62926896-40A8-425F-9B5E-307690E8ADDA}|SessionASPCore\\SessionASPCore.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\sessionaspcore\\sessionaspcore\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62926896-40A8-425F-9B5E-307690E8ADDA}|SessionASPCore\\SessionASPCore.csproj|solutionrelative:sessionaspcore\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{62926896-40A8-425F-9B5E-307690E8ADDA}|SessionASPCore\\SessionASPCore.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\sessionaspcore\\sessionaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62926896-40A8-425F-9B5E-307690E8ADDA}|SessionASPCore\\SessionASPCore.csproj|solutionrelative:sessionaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62926896-40A8-425F-9B5E-307690E8ADDA}|SessionASPCore\\SessionASPCore.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\sessionaspcore\\sessionaspcore\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62926896-40A8-425F-9B5E-307690E8ADDA}|SessionASPCore\\SessionASPCore.csproj|solutionrelative:sessionaspcore\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62926896-40A8-425F-9B5E-307690E8ADDA}|SessionASPCore\\SessionASPCore.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\sessionaspcore\\sessionaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\SessionASPCore\\SessionASPCore\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "SessionASPCore\\Views\\Home\\About.cshtml",
@@ -79,15 +79,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\SessionASPCore\\SessionASPCore\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SessionASPCore\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\SessionASPCore\\SessionASPCore\\Controllers\\HomeController.cs",
               "RelativeToolTip": "SessionASPCore\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABMAAAAMAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACAAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T05:07:42.236Z"
+              "WhenOpened": "2024-04-25T05:07:42.236Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
