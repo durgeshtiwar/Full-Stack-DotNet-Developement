@@ -20,41 +20,54 @@ namespace BindDDLwithDatabase.Controllers
             this.context = context;
         }
 
-        private StudentModel BDDList()
-        {
-            StudentModel stdModel = new StudentModel();
-            stdModel.studentList = new List<SelectListItem>();
-            var data = context.Students.ToList();
-            stdModel.studentList.Add(new SelectListItem
-            {
-                Text = "Select Name",
-                Value = ""
-            });
-            foreach (var item in data)
-            {
-                stdModel.studentList.Add(new SelectListItem
-                {
-                    Text = item.StudentName,
-                    Value = item.Id.ToString()
-                });
-            }
-            return (stdModel);
-        }
+        //private StudentModel BDDList()
+        //{
+        //    StudentModel stdModel = new StudentModel();
+        //    stdModel.studentList = new List<SelectListItem>();
+        //    var data = context.Students.ToList();
+        //    stdModel.studentList.Add(new SelectListItem
+        //    {
+        //        Text = "Select Name",
+        //        Value = ""
+        //    });
+        //    foreach (var item in data)
+        //    {
+        //        stdModel.studentList.Add(new SelectListItem
+        //        {
+        //            Text = item.StudentName,
+        //            Value = item.Id.ToString()
+        //        });
+        //    }
+        //    return (stdModel);
+        //}
         public IActionResult Index()
         {
-            var stdmodel = BDDList();
-            return View(stdmodel);
+            //var stdmodel = BDDList();
+            //return View(stdmodel);
+
+
+
+            var model = new ViewModel()
+            {
+                accept_Terms = false,
+                text = "I Accept The Terms"
+            };
+            return View(model);
         }
         [HttpPost]
-        public IActionResult Index(StudentModel std)
+        public IActionResult Index(ViewModel data)
         {
-            var student = context.Students.Where(x => x.Id == std.Id).FirstOrDefault();
-            if(student!=null)
-            {
-                ViewBag.selectStudent = student.StudentName;
-            }
-            var stdmodel = BDDList();
-            return View(stdmodel);
+            //var student = context.Students.Where(x => x.Id == std.Id).FirstOrDefault();
+            //if(student!=null)
+            //{
+            //    ViewBag.selectStudent = student.StudentName;
+            //}
+            //var stdmodel = BDDList();
+            //return View(stdmodel);
+
+
+            var vlaue = data.accept_Terms;
+            return View();
         }
 
         public IActionResult Privacy()

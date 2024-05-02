@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BindDDLwithDatabase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64ba11925769c61dc979bc9794cad21ce659d2c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45fac76d48095a8dd2fe3650deefc832a8a15dc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BindDDLwithDatabase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BindDDLwithDatabase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
