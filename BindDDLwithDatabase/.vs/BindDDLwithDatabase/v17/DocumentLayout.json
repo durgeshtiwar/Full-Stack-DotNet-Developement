@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\BindDDLwithDatabase\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9840557-7810-49C6-8560-1B33620F7BB4}|BindDDLwithDatabase\\BindDDLwithDatabase.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\bindddlwithdatabase\\bindddlwithdatabase\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9840557-7810-49C6-8560-1B33620F7BB4}|BindDDLwithDatabase\\BindDDLwithDatabase.csproj|solutionrelative:bindddlwithdatabase\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9840557-7810-49C6-8560-1B33620F7BB4}|BindDDLwithDatabase\\BindDDLwithDatabase.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\bindddlwithdatabase\\bindddlwithdatabase\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9840557-7810-49C6-8560-1B33620F7BB4}|BindDDLwithDatabase\\BindDDLwithDatabase.csproj|solutionrelative:bindddlwithdatabase\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{A9840557-7810-49C6-8560-1B33620F7BB4}|BindDDLwithDatabase\\BindDDLwithDatabase.csproj|solutionrelative:bindddlwithdatabase\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9840557-7810-49C6-8560-1B33620F7BB4}|BindDDLwithDatabase\\BindDDLwithDatabase.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\bindddlwithdatabase\\bindddlwithdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9840557-7810-49C6-8560-1B33620F7BB4}|BindDDLwithDatabase\\BindDDLwithDatabase.csproj|solutionrelative:bindddlwithdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A9840557-7810-49C6-8560-1B33620F7BB4}|BindDDLwithDatabase\\BindDDLwithDatabase.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\bindddlwithdatabase\\bindddlwithdatabase\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9840557-7810-49C6-8560-1B33620F7BB4}|BindDDLwithDatabase\\BindDDLwithDatabase.csproj|solutionrelative:bindddlwithdatabase\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9840557-7810-49C6-8560-1B33620F7BB4}|BindDDLwithDatabase\\BindDDLwithDatabase.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\bindddlwithdatabase\\bindddlwithdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9840557-7810-49C6-8560-1B33620F7BB4}|BindDDLwithDatabase\\BindDDLwithDatabase.csproj|solutionrelative:bindddlwithdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9840557-7810-49C6-8560-1B33620F7BB4}|BindDDLwithDatabase\\BindDDLwithDatabase.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\bindddlwithdatabase\\bindddlwithdatabase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,19 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\BindDDLwithDatabase\\BindDDLwithDatabase\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BindDDLwithDatabase\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\BindDDLwithDatabase\\BindDDLwithDatabase\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BindDDLwithDatabase\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T07:02:31.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StudentModel.cs",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\BindDDLwithDatabase\\BindDDLwithDatabase\\Models\\StudentModel.cs",
               "RelativeDocumentMoniker": "BindDDLwithDatabase\\Models\\StudentModel.cs",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\BindDDLwithDatabase\\BindDDLwithDatabase\\Models\\StudentModel.cs",
               "RelativeToolTip": "BindDDLwithDatabase\\Models\\StudentModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T08:01:25.172Z"
+              "WhenOpened": "2024-04-30T08:01:25.172Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\BindDDLwithDatabase\\BindDDLwithDatabase\\Program.cs",
               "RelativeDocumentMoniker": "BindDDLwithDatabase\\Program.cs",
@@ -66,20 +84,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\BindDDLwithDatabase\\BindDDLwithDatabase\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BindDDLwithDatabase\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\BindDDLwithDatabase\\BindDDLwithDatabase\\Controllers\\HomeController.cs",
               "RelativeToolTip": "BindDDLwithDatabase\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADUAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T07:52:00.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\BindDDLwithDatabase\\BindDDLwithDatabase\\appsettings.json",
               "RelativeDocumentMoniker": "BindDDLwithDatabase\\appsettings.json",
@@ -97,9 +115,10 @@
               "RelativeDocumentMoniker": "BindDDLwithDatabase\\Models\\CodeFirstDbContext.cs",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\BindDDLwithDatabase\\BindDDLwithDatabase\\Models\\CodeFirstDbContext.cs",
               "RelativeToolTip": "BindDDLwithDatabase\\Models\\CodeFirstDbContext.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T07:48:36.032Z"
+              "WhenOpened": "2024-04-30T07:48:36.032Z",
+              "EditorCaption": ""
             }
           ]
         }
