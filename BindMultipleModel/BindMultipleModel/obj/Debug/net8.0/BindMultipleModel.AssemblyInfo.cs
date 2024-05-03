@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BindMultipleModel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd7f094f76054eb7b85664fcb82e1ff9374b075f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f0c3e681da704144a2c7aa545391679ed463a14")]
 [assembly: System.Reflection.AssemblyProductAttribute("BindMultipleModel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BindMultipleModel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
