@@ -1,6 +1,7 @@
 ﻿using ASPCURDApplictionUsingApi.Models;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using System.Text;
 
 namespace ASPCURDApplictionUsingApi.Controllers
 {
@@ -23,6 +24,53 @@ namespace ASPCURDApplictionUsingApi.Controllers
                 }
             }
             return View(students);
+        }
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Create(Student std)
+        {
+            string data = JsonConvert.SerializeObject(std);
+            StringContent content = new StringContent(data, Encoding.UTF8, "application/json");
+            HttpResponseMessage response = client.PostAsync(URL, content).Result;
+            if (response.IsSuccessStatusCode)
+            {
+                TempData["Create_Message"] = "Student Added....";
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
+        [HttpGet]
+        public IActionResult Edit(int id)
+        {
+            Student std = new Student();
+            HttpResponseMessage response = client.GetAsync(URL+id).Result;
+            if (response.IsSuccessStatusCode)
+            {
+                string result = response.Content.ReadAsStringAsync().Result;
+                var data = JsonConvert.DeserializeObject<Student>(result);
+                if (data != null)
+                {
+                    std = data;
+                }
+            }
+            return View(std);
+        }
+        [HttpPost]
+        public IActionResult Edit(Student std)
+        {
+            string data = JsonConvert.SerializeObject(std);
+            StringContent content = new StringContent(data, Encoding.UTF8, "application/json");
+            HttpResponseMessage response = client.PutAsync(URL+ std.id, content).Result;
+            if (response.IsSuccessStatusCode)
+            {
+                TempData["Update_Message"] = "Student Updated....";
+                return RedirectToAction("Index");
+            }
+            return View();
         }
     }
 }

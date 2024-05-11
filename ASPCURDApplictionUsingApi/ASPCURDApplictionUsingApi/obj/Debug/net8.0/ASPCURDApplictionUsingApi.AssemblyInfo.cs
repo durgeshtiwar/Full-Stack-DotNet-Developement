@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPCURDApplictionUsingApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abec7d9b54c59a6f400ed9488ba4dc98745588ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc6a5add83881309d4fdd68a7750a641b20fdfaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPCURDApplictionUsingApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPCURDApplictionUsingApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,11 +7,12 @@
       "RelativeMoniker": "D:0:0:{BF83CE6B-C77C-45ED-9265-B4F0F3FDCD9B}|ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi.csproj|solutionrelative:aspcurdapplictionusingapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\durge\\AppData\\Local\\Temp\\.vsdbgsrc\\f5cb93226cdc838f58cf71390226126c929aff58279b5f8acb4370804bd82c97\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF83CE6B-C77C-45ED-9265-B4F0F3FDCD9B}|ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\aspcurdapplictionusingapi\\aspcurdapplictionusingapi\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83CE6B-C77C-45ED-9265-B4F0F3FDCD9B}|ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi.csproj|solutionrelative:aspcurdapplictionusingapi\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF83CE6B-C77C-45ED-9265-B4F0F3FDCD9B}|ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\aspcurdapplictionusingapi\\aspcurdapplictionusingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF83CE6B-C77C-45ED-9265-B4F0F3FDCD9B}|ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi.csproj|solutionrelative:aspcurdapplictionusingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF83CE6B-C77C-45ED-9265-B4F0F3FDCD9B}|ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\aspcurdapplictionusingapi\\aspcurdapplictionusingapi\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83CE6B-C77C-45ED-9265-B4F0F3FDCD9B}|ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi.csproj|solutionrelative:aspcurdapplictionusingapi\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF83CE6B-C77C-45ED-9265-B4F0F3FDCD9B}|ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\aspcurdapplictionusingapi\\aspcurdapplictionusingapi\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -20,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{BF83CE6B-C77C-45ED-9265-B4F0F3FDCD9B}|ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\aspcurdapplictionusingapi\\aspcurdapplictionusingapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF83CE6B-C77C-45ED-9265-B4F0F3FDCD9B}|ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi.csproj|solutionrelative:aspcurdapplictionusingapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83CE6B-C77C-45ED-9265-B4F0F3FDCD9B}|ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\aspcurdapplictionusingapi\\aspcurdapplictionusingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF83CE6B-C77C-45ED-9265-B4F0F3FDCD9B}|ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi.csproj|solutionrelative:aspcurdapplictionusingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,19 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\durge\\AppData\\Local\\Temp\\.vsdbgsrc\\f5cb93226cdc838f58cf71390226126c929aff58279b5f8acb4370804bd82c97\\StudentController.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f5cb93226cdc838f58cf71390226126c929aff58279b5f8acb4370804bd82c97\\StudentController.cs",
-              "ToolTip": "C:\\Users\\durge\\AppData\\Local\\Temp\\.vsdbgsrc\\f5cb93226cdc838f58cf71390226126c929aff58279b5f8acb4370804bd82c97\\StudentController.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f5cb93226cdc838f58cf71390226126c929aff58279b5f8acb4370804bd82c97\\StudentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T07:59:49.664Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASPCURDApplictionUsingApi\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "ASPCURDApplictionUsingApi\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T09:22:12.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASPCURDApplictionUsingApi\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "ASPCURDApplictionUsingApi\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T08:26:29.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi\\Program.cs",
               "RelativeDocumentMoniker": "ASPCURDApplictionUsingApi\\Program.cs",
@@ -72,9 +90,10 @@
               "RelativeDocumentMoniker": "ASPCURDApplictionUsingApi\\Views\\Student\\Index.cshtml",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "ASPCURDApplictionUsingApi\\Views\\Student\\Index.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAmwDsAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T07:39:12.467Z"
+              "WhenOpened": "2024-05-10T07:39:12.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -84,7 +103,7 @@
               "RelativeDocumentMoniker": "ASPCURDApplictionUsingApi\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi\\Controllers\\StudentController.cs",
               "RelativeToolTip": "ASPCURDApplictionUsingApi\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAkwA4AAABHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T07:21:14.756Z",
               "EditorCaption": ""
@@ -97,9 +116,10 @@
               "RelativeDocumentMoniker": "ASPCURDApplictionUsingApi\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\ASPCURDApplictionUsingApi\\ASPCURDApplictionUsingApi\\Models\\Student.cs",
               "RelativeToolTip": "ASPCURDApplictionUsingApi\\Models\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T06:55:20.478Z"
+              "WhenOpened": "2024-05-10T06:55:20.478Z",
+              "EditorCaption": ""
             }
           ]
         }
