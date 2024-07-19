@@ -1,0 +1,15 @@
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\Exercise_1\Exercise_1\bin\Debug\net8.0\Exercise_1.exe
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\Exercise_1\Exercise_1\bin\Debug\net8.0\Exercise_1.deps.json
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\Exercise_1\Exercise_1\bin\Debug\net8.0\Exercise_1.runtimeconfig.json
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\Exercise_1\Exercise_1\bin\Debug\net8.0\Exercise_1.dll
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\Exercise_1\Exercise_1\bin\Debug\net8.0\Exercise_1.pdb
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\Exercise_1\Exercise_1\obj\Debug\net8.0\Exercise_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\Exercise_1\Exercise_1\obj\Debug\net8.0\Exercise_1.AssemblyInfoInputs.cache
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\Exercise_1\Exercise_1\obj\Debug\net8.0\Exercise_1.AssemblyInfo.cs
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\Exercise_1\Exercise_1\obj\Debug\net8.0\Exercise_1.csproj.CoreCompileInputs.cache
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\Exercise_1\Exercise_1\obj\Debug\net8.0\Exercise_1.sourcelink.json
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\Exercise_1\Exercise_1\obj\Debug\net8.0\Exercise_1.dll
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\Exercise_1\Exercise_1\obj\Debug\net8.0\refint\Exercise_1.dll
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\Exercise_1\Exercise_1\obj\Debug\net8.0\Exercise_1.pdb
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\Exercise_1\Exercise_1\obj\Debug\net8.0\Exercise_1.genruntimeconfig.cache
+C:\Users\durge\OneDrive\Desktop\Full Stack dotnet Developement Bootcamp\Exercise_1\Exercise_1\obj\Debug\net8.0\ref\Exercise_1.dll
