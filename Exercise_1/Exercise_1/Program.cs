@@ -1,12 +1,11 @@
-﻿int[] arr1 = new int[10];
-int i, j;
-for (i = 0; i < 10; i++)
-{
-    Console.WriteLine("Enter The value");
-    arr1[i] = Convert.ToInt32(Console.ReadLine());
-}
-for (j = 0; j < 10; j++)
-{
-    Console.WriteLine(arr1[j]);
-}
-Console.ReadLine();
+﻿using Exercise_1;
+
+/*Complex obj1 = new Complex();
+obj1.SetData(5, 6);
+obj1.Display();*/
+
+Time Obj1 = new Time();
+Obj1.SetValue(75, 65, 80);
+Obj1.DisplayData();
+
+Console.ReadLine(); 
