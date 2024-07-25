@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\Exercise_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5078130-F063-459B-9CA5-ACDBD2A648B2}|Exercise_1\\Exercise_1.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\exercise_1\\exercise_1\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5078130-F063-459B-9CA5-ACDBD2A648B2}|Exercise_1\\Exercise_1.csproj|solutionrelative:exercise_1\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5078130-F063-459B-9CA5-ACDBD2A648B2}|Exercise_1\\Exercise_1.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\exercise_1\\exercise_1\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5078130-F063-459B-9CA5-ACDBD2A648B2}|Exercise_1\\Exercise_1.csproj|solutionrelative:exercise_1\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5078130-F063-459B-9CA5-ACDBD2A648B2}|Exercise_1\\Exercise_1.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\exercise_1\\exercise_1\\methodoverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5078130-F063-459B-9CA5-ACDBD2A648B2}|Exercise_1\\Exercise_1.csproj|solutionrelative:exercise_1\\methodoverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5078130-F063-459B-9CA5-ACDBD2A648B2}|Exercise_1\\Exercise_1.csproj|c:\\users\\durge\\onedrive\\desktop\\full stack dotnet developement bootcamp\\exercise_1\\exercise_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,38 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Time.cs",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\Exercise_1\\Exercise_1\\Time.cs",
-              "RelativeDocumentMoniker": "Exercise_1\\Time.cs",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\Exercise_1\\Exercise_1\\Time.cs",
-              "RelativeToolTip": "Exercise_1\\Time.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Title": "MethodOverloading.cs",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\Exercise_1\\Exercise_1\\MethodOverloading.cs",
+              "RelativeDocumentMoniker": "Exercise_1\\MethodOverloading.cs",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\Exercise_1\\Exercise_1\\MethodOverloading.cs",
+              "RelativeToolTip": "Exercise_1\\MethodOverloading.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T16:12:25.069Z",
+              "WhenOpened": "2024-07-25T06:58:07.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Complex.cs",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\Exercise_1\\Exercise_1\\Complex.cs",
-              "RelativeDocumentMoniker": "Exercise_1\\Complex.cs",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\Exercise_1\\Exercise_1\\Complex.cs",
-              "RelativeToolTip": "Exercise_1\\Complex.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAswBYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T15:35:35.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\Exercise_1\\Exercise_1\\Program.cs",
               "RelativeDocumentMoniker": "Exercise_1\\Program.cs",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\Exercise_1\\Exercise_1\\Program.cs",
               "RelativeToolTip": "Exercise_1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvwwAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T06:04:09.256Z",
               "EditorCaption": ""
